@@ -10,6 +10,8 @@
 ### [Jetpack Compose Book](https://jetpackcompose.cn/)
 国内第三方镜像 *（加载速度快，内容可能略滞后于官网）*：[https://compose.funnysaltyfish.fun](https://compose.funnysaltyfish.fun)
 
+个人使用[https://vercel.com/](https://vercel.com/)搭建了个镜像: [https://jetpack-compose-book.vercel.app/docs/](https://jetpack-compose-book.vercel.app/docs/)
+
 此项目致力于帮助大家更好的认识 Jetpack Compose 框架, 更多的部分是为了补充官网可能没有介绍的东西。
 
 有问题欢迎提交 [issue](https://github.com/compose-museum/jetpack-compose-tutorial/issues/new)。
